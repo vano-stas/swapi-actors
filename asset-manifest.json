@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swapi-actors/static/css/main.d7c2cf94.chunk.css",
+    "main.js": "/swapi-actors/static/js/main.48292b74.chunk.js",
+    "main.js.map": "/swapi-actors/static/js/main.48292b74.chunk.js.map",
+    "runtime~main.js": "/swapi-actors/static/js/runtime~main.5ff5c053.js",
+    "runtime~main.js.map": "/swapi-actors/static/js/runtime~main.5ff5c053.js.map",
+    "static/js/2.a64dfd47.chunk.js": "/swapi-actors/static/js/2.a64dfd47.chunk.js",
+    "static/js/2.a64dfd47.chunk.js.map": "/swapi-actors/static/js/2.a64dfd47.chunk.js.map",
+    "index.html": "/swapi-actors/index.html",
+    "precache-manifest.7c4d6242bab9e35b202ffc2d0ab98fc3.js": "/swapi-actors/precache-manifest.7c4d6242bab9e35b202ffc2d0ab98fc3.js",
+    "service-worker.js": "/swapi-actors/service-worker.js",
+    "static/css/main.d7c2cf94.chunk.css.map": "/swapi-actors/static/css/main.d7c2cf94.chunk.css.map"
+  }
+}
