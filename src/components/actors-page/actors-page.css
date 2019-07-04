@@ -1,0 +1,16 @@
+.actors-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    /* background: lightblue; */
+    height: 90vh;
+}
+
+.actor-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* align-items: space-between; */
+    width: 100%;
+}

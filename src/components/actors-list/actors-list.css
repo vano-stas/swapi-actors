@@ -1,0 +1,14 @@
+.actors-list {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start; */
+    align-items: center;
+    /* align-content: center; */
+    width: 100%;
+    overflow: auto;
+}
+
+.actors-item {
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
